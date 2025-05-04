@@ -9,9 +9,10 @@
         </p>
     </p>
     <p>
-        <a href="" target="_blank"><img src="[https://img.shields.io/badge/](https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/)-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="160" /></a>
+        <a  href="https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/" target="_blank"><img src="https://img.shields.io/badge/](https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/)](https://img.shields.io/badge/)-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="160" /></a>
         &nbsp;
-        <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196" />
+       <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196" />
+        &nbsp;
     </p>
  
 </div>
