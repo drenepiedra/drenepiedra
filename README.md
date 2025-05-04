@@ -9,7 +9,7 @@
         </p>
     </p>
     <p>
-        <a  href="https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn">
+        <a  href="https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196">
 </a>
         &nbsp;
        <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196" />
