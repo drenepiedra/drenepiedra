@@ -63,9 +63,7 @@
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
 
-&nbsp;
-[<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxtdotjs&logoColor=00DC82" alt="TypeScript logo" title="TypeScript" height="25" />][learning_next_anchor]
-&nbsp;
+
 
 
 
