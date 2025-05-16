@@ -1,11 +1,8 @@
 <div align="center">
     <p align="center"> 
-        <h3 align="center">Hola 👋, Soy Dann 👨🏻‍💻</h3>
-        <p>Soy
-        <strong> Web Developer</strong> 
-        en ciudad de la Habana , Cuba 🇨🇺
+        <h3 align="center">Hi 👋, my name is Dann </h3> <p>I'm a junior web developer in Habana City,Cuba </p>
         <br />  
-        Puede observar mi CV con gusto 👇!  
+        You can see my CV 👇!  
         </p>
     </p>
     <p>
@@ -21,14 +18,14 @@
 [<img src="https://img.shields.io/github/stars/MaxwelldanielR?affiliations=OWNER&color=%23ffe411&label=GitHub%20Stars&logo=github&logoColor=%23fffFF&style=flat" alt="Stars" title="Stars" />][knowledge_anchor]
 [<img src="https://img.shields.io/github/followers/MaxwelldanielR?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
 
-🔭 Actualmente trabajando en SofGet<br/>
-🌱 Nivel Básico de Inglés .<br/>
-🎓 Estudiante de 2do año en la [Universidad de Ciencias Informáticas](https://www.uci.cu/en) (UCI).<br/>
+🔭 I work in SoftGet<br/>
+🌱 Level English Basic.<br/>
+🎓 Estudy in [Universidad de Ciencias Informáticas](https://www.uci.cu/en) (UCI).<br/>
 💼 +1 año de experiencia en desarrollo web.<br/>
 
 ## Github :https://github.com/drenepiedra
 
-## 🛠 Tecnologías y Lenguajes
+## 🛠 Tecnology and lenguage
 
 <a name="knowledge"></a>
 
@@ -56,16 +53,12 @@
 
 <a name="learning-now"></a>
 
-## 👾 Interés personal en aprender :
+## 👾 Personal interesting :
 
 
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
 &nbsp;
-
-
-
-
 
 
 #
