@@ -1,68 +1,67 @@
 <div align="center">
-    <p align="center"> 
-        <h3 align="center">Hi 👋, my name is Dann </h3> <p>I'm a junior web developer in Habana City,Cuba </p>
-        <br />  
-        You can see my CV 👇!  
-        </p>
-    </p>
-    <p>
-       <a href="https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="160" /></a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" width="196" />
-    </p>
- 
+
+<h2>👋 ¡Hola! Soy Daniel René Piedra Sifontes</h2>
+<p><strong>Desarrollador Web Junior</strong> desde La Habana, Cuba 🇨🇺</p>
+<p>Apasionado por el desarrollo frontend, la experiencia de usuario, y la tecnología como motor de transformación.</p>
+
+<br />
+
+<a href="https://www.linkedin.com/in/daniel-rene-piedra-sifontes-71b88527b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge" />
+&nbsp;
+<a href="https://github.com/drenepiedra" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+</a>
+
 </div>
 
-#
+---
 
-[<img src="https://img.shields.io/github/stars/MaxwelldanielR?affiliations=OWNER&color=%23ffe411&label=GitHub%20Stars&logo=github&logoColor=%23fffFF&style=flat" alt="Stars" title="Stars" />][knowledge_anchor]
-[<img src="https://img.shields.io/github/followers/MaxwelldanielR?affiliations=OWNER&label=Followers&logo=github&logoColor=%23fffFF&style=flat" alt="Followers" title="Followers" />][knowledge_anchor]
+### 🚀 Sobre mí
 
-🔭 I work in SoftGet<br/>
-🌱 Level English Basic.<br/>
-🎓 Estudy in [Universidad de Ciencias Informáticas](https://www.uci.cu/en) (UCI).<br/>
-💼 +1 año de experiencia en desarrollo web.<br/>
+- 🎓 Estudiante en [Universidad de Ciencias Informáticas (UCI)](https://www.uci.cu/en)
+- 💼 Más de 1 año de experiencia en desarrollo web
+- 🔍 Enfocado en mejorar la usabilidad, accesibilidad y funcionalidad de aplicaciones web
+- 🌱 Inglés nivel básico (mejorando cada día)
+- 🎨 Equilibrio entre lo técnico y lo creativo: de CSS a análisis histórico-artístico
 
-## Github :https://github.com/drenepiedra
+---
 
-## 🛠 Tecnology and lenguage
+### 💻 Tecnologías y herramientas
 
-<a name="knowledge"></a>
+<div align="center">
 
+| Lenguajes | Frameworks & Librerías | Herramientas |
+|----------|------------------------|-------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | |  |
 
-&nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ed8b00" alt="Java logo" title="Java" height="25" />][knowledge_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][knowledge_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="PHP logo" title="PHP" height="25" />][knowledge_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][knowledge_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][knowledge_anchor]
-&nbsp;
+</div>
 
+---
 
-&nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />][knowledge_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][knowledge_anchor]
-&nbsp;
+### 📈 Estadísticas en GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykDev97&layout=compact)](https://github.com/MayDev97)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drenepiedra&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drenepiedra&show_icons=true&hide=contribs&theme=dark)
 
-<a name="learning-now"></a>
+---
 
-## 👾 Personal interesting :
+### 🎯 Intereses actuales
 
+- 📐 Diseño centrado en el usuario
+- 🔍 Análisis de algoritmos y estructuras de datos
+- ⚙️ Integración de Tailwind CSS y PostCSS
+- 📊 Visualización de datos mediante gráficos y diagramas
+- 🎭 Historia del arte y literatura gauchesca (¡sí, también me interesa lo cultural!)
 
-&nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_next_anchor]
-&nbsp;
+---
 
-
-#
-
-[knowledge_anchor]: #Dann-freelancerhttpsimgshieldsiobadgefreelancer-29b2festylefor-the-badgelogofreelancerlogocolorwhite
-[learning_now_anchor]: #-Tecnologías-y-Lenguajes
-[learning_next_anchor]: #--Interés-personal-en-aprender
+<p align="center">
+Gracias por visitar mi perfil 🙌 ¡Estoy abierto a colaboraciones, ideas y nuevos proyectos!
+</p>
